@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m Emily[she/they], an SRE passionate about AWS, IaC and diversity in STEM!</h1>
+
 👀 I’m interested in everything **SRE, DevOps, and Cloud**. 
 
 🌱 I’m currently learning towards upskilling in **AWS**(towards certification), **k8s**, and **monitoring and observability**(esp. **DataDog**.)
