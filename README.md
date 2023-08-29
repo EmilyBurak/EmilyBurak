@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I’m Emily[she/they], an SRE passionate about AWS, IaC and diversity in STEM!</h1>
+<h1 align="center">👋 Hi, I’m Emily[she/they], an SRE passionate about AWS, IaC, and diversity in STEM!</h1>
 
 👀 I’m interested in everything **SRE, DevOps, and Cloud**. 
 
-🌱 I’m currently learning towards upskilling in **AWS**(towards certification), **k8s**, and **monitoring and observability**(esp. **DataDog**.)
+🌱 I’m currently learning towards upskilling in **AWS**, **k8s**, and **monitoring and observability**(esp. **DataDog**.)
 
-💞️ I’m looking to collaborate on projects that utilize my ecclectic mix of skills developed over years in tech
+💞️ I’m looking to collaborate on projects that utilize my eclectic mix of skills developed over years in tech
 
 📫 How to reach me: **emily@emilytburak.com**
 
