@@ -2,13 +2,13 @@
 
 👀 I’m interested in everything **SRE, DevOps, and Cloud**.
 
-🌱 I’m currently learning towards upskilling in **AWS** and **k8s**.
+🌱 I’m currently learning towards upskilling in **AWS**, **Terraform** and **k8s**.
 
-💞️ I’m looking to collaborate on projects that utilize my eclectic mix of skills developed over years in tech.
+💞️ I’m looking to collaborate on projects that utilize my eclectic mix of skills developed over years in tech. Outside of work, I spend a lot of my time working on personal projects, but also spending time with my loved ones and doing nerd stuff.
 
 📫 How to reach me: **emily@emilytburak.com**
 
-👨‍💻 My personal website is [https://www.emilytburak.com/](https://www.emilytburak.com/), I blog there and on Medium and blog/post/lurk on LinkedIn when time and energy allow.
+👨‍💻 My personal website(in the progress of migration) is [https://emilytburak.net/](https://emilytburak.net/), I blog there and on Medium and blog/post/lurk on LinkedIn when time and energy allow.
 
 ⚡ Fun fact to wrap this up: **I'm a dual degree-holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
