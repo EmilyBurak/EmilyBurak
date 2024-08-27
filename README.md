@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I’m Emily[she/they], a DevOps Engineer passionate about AWS, Kubernetes, Terraform and diversity in STEM!</h1>
 
-👀 I’m interested in everything **SRE, DevOps, and Cloud**.
+👀 I’m interested in everything **DevOps, SRE, and Platform Engineering**.
 
-🌱 I’m currently learning towards upskilling in **AWS**, **Terraform** and **k8s**.
+🌱 I’m currently learning towards upskilling in **Golang** and **EKS**.
 
-💞️ I’m looking to collaborate on projects that utilize my eclectic mix of skills developed over years in tech. Outside of work, I spend a lot of my time working on personal projects, but also spending time with my loved ones and doing nerd stuff.
+💞️ I’m looking to collaborate on projects that utilize my eclectic mix of skills developed over years in tech.
 
 📫 How to reach me: **emily@emilytburak.com**
 
-👨‍💻 My personal website(in the progress of migration) is [https://emilytburak.net/](https://emilytburak.net/), I blog there and on Medium and blog/post/lurk on LinkedIn when time and energy allow.
+👨‍💻 My personal website is [here](https://www.emilytburak.com), I blog there and on Medium and blog/post/lurk on LinkedIn when time and energy allow.
 
 ⚡ Fun fact to wrap this up: **I'm a dual degree-holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
