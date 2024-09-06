@@ -8,7 +8,7 @@
 
 📫 How to reach me: **emily@emilytburak.com**
 
-👨‍💻 My personal website is [here](https://www.emilytburak.com), I blog there and on Medium and blog/post/lurk on LinkedIn when time and energy allow.
+👨‍💻 My personal website is [here](https://www.emilytburak.com), I blog there and on Medium and blog/post/lurk on [LinkedIn](https://www.linkedin.com/in/emily-burak/) when time and energy allow.
 
 ⚡ Fun fact to wrap this up: **I'm a dual degree-holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
