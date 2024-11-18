@@ -14,7 +14,8 @@
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START -->- [Current favorite CLI tools and aliases](/posts/2024-11-16-current-favorite-cli-tools-and-aliases/)
+<!-- BLOG-POST-LIST:START -->
+- [Current favorite CLI tools and aliases](/posts/2024-11-16-current-favorite-cli-tools-and-aliases/)
 - [Lambda API &quot;Missing Authentication Token&quot; Error Weirdness](/posts/2024-07-07-lambda-api-missing-authentication-token-error-weirdness/)
 - [AWS Backup Notifications to Slack](/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
