@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in personal site posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v2
         with:
           feed_list: "https://emilytburak.net/posts/index.xml"
           max_post_count: 3
