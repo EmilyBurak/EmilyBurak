@@ -8,9 +8,14 @@
 
 📫 How to reach me: **emily@emilytburak.com**
 
-👨‍💻 My personal website is [here](https://www.emilytburak.com), I blog there and on Medium and blog/post/lurk on [LinkedIn](https://www.linkedin.com/in/emily-burak/) when time and energy allow.
+👨‍💻 My personal website is [here](https://www.emilytburak.com), I blog there and on Medium and blog/post/lurk on [LinkedIn](https://www.linkedin.com/in/emily-burak/).
 
 ⚡ Fun fact to wrap this up: **I'm a dual degree-holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> 
 <a href="https://www.linkedin.com/in/emily-burak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emily-burak" height="30" width="40" /></a> </p>
