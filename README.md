@@ -8,16 +8,23 @@
 
 📫 How to reach me: **emily@emilytburak.com**
 
-👨‍💻 My personal website is [here](https://www.emilytburak.com), I blog there and on Medium and blog/post/lurk on [LinkedIn](https://www.linkedin.com/in/emily-burak/).
+👨‍💻 My personal website is [here](emilytburak.com), I blog there and on Medium and blog/post/lurk on [LinkedIn](https://www.linkedin.com/in/emily-burak/).
 
 ⚡ Fun fact to wrap this up: **I'm a dual degree-holding Political Philosopher/Ethicist in a former life, ask me trivia about Aristotle!**
 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< HEAD
 - [Current favorite CLI tools and aliases](https://emilytburak.net/posts/2024-11-16-current-favorite-cli-tools-and-aliases/)
 - [Lambda API &quot;Missing Authentication Token&quot; Error Weirdness](https://emilytburak.net/posts/2024-07-07-lambda-api-missing-authentication-token-error-weirdness/)
 - [AWS Backup Notifications to Slack](https://emilytburak.net/posts/my-first-post/)
+=======
+
+- [Current favorite CLI tools and aliases](/posts/2024-11-16-current-favorite-cli-tools-and-aliases/)
+- [Lambda API &quot;Missing Authentication Token&quot; Error Weirdness](/posts/2024-07-07-lambda-api-missing-authentication-token-error-weirdness/)
+- [AWS Backup Notifications to Slack](/posts/my-first-post/)
+>>>>>>> c91edbd (update site link)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> 
