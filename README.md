@@ -15,7 +15,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Current favorite CLI tools and aliases](https://emilytburak.net/posts/2024-11-16-current-favorite-cli-tools-and-aliases/)
 - [Lambda API &quot;Missing Authentication Token&quot; Error Weirdness](https://emilytburak.net/posts/2024-07-07-lambda-api-missing-authentication-token-error-weirdness/)
 - [AWS Backup Notifications to Slack](https://emilytburak.net/posts/my-first-post/)
