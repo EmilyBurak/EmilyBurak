@@ -15,9 +15,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leaving Spotify, Reclaiming Music](https://emilytburak.net/posts/2025-12-31-leaving-spotify-reclaiming-music/)
 - [Greptile -- AI Pull Request Reviews in 2025](https://emilytburak.net/posts/2025-05-25-greptile-ai-pr-tools/)
 - [Comm -- a rundown](https://emilytburak.net/posts/2025-03-15-comm-a-rundown/)
-- [AWS SAM Lambda Local Testing -- Connecting To Docker Containers](https://emilytburak.net/posts/2025-03-10-aws-sam-lambda-connecting-to-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> 
