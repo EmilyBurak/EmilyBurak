@@ -2,7 +2,7 @@
 
 👀 I’m interested in everything **DevOps, SRE, and Platform Engineering**.
 
-🌱 I’m currently upskilling in **Golang** and **EKS**.
+🌱 I’m currently upskilling in **Golang**, **k8s** and **GCP**.
 
 💞️ I’m looking to collaborate on projects that utilize my eclectic mix of skills developed over years in tech.
 
