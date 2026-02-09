@@ -20,5 +20,4 @@
 - [Greptile -- AI Pull Request Reviews in 2025](https://emilytburak.net/posts/2025-05-25-greptile-ai-pr-tools/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> <a href="https://twitter.com/immutablyyours" target="blank"><img src="https://img.shields.io/twitter/follow/immutablyyours?logo=twitter&style=for-the-badge" alt="immutablyyours" /></a> 
 <a href="https://www.linkedin.com/in/emily-burak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emily-burak" height="30" width="40" /></a> </p>
