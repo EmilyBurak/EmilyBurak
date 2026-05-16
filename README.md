@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Secure GCP auth in Bitbucket Pipelines](https://emilytburak.net/posts/bitbucket-pipes-gap-gcp-oidc/)
 - [GitHub Actions to Bitbucket Pipelines and minimizing the pain of the journey](https://emilytburak.net/posts/bitbucket-vs-github-actions-intro/)
-- [Leaving Spotify, Reclaiming Music](https://emilytburak.net/posts/2025-12-31-leaving-spotify-reclaiming-music/)
+- [Learnings from GoTTH Stack development](https://emilytburak.net/posts/2025-06-09-htmx-golang-learnings/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://www.linkedin.com/in/emily-burak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emily-burak" height="30" width="40" /></a> </p>
